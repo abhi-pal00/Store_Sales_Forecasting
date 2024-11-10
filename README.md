@@ -3,7 +3,7 @@
 In today's competitive retail landscape, accurately predicting future sales is crucial for businesses to make informed decisions, optimize resources, and maintain a competitive edge. Store Sales Forecasting leverages historical data, statistical methods, and machine learning models to estimate future sales. This approach helps retailers and decision-makers anticipate **customer demand, manage inventory levels, and create effective sales and marketing strategies**.
 
 
-
+![](https://i.imgur.com/7DlNawO.jpeg)
 
 # What is Store Sales Forecasting?
 
